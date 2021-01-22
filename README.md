@@ -1,0 +1,1 @@
+This is a simple dice simulator made in a python. It shows a different usage of if-else and functions with user interactive experience. One can also use it to play a real life ludo with his friends.
